@@ -1,0 +1,30 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>codestorming</title>
+  <link href="http://blog.codestorming.com/"/>
+  <link type="application/atom+xml" rel="self" href="http://blog.codestorming.com/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://blog.codestorming.com/</id>
+  <author>
+    <name>Christopher Lee</name>
+    <email>chris@codestorming.com</email>
+  </author>
+
+  {% for post in site.posts %}
+  <entry>
+    <id>http://blog.codestorming.com{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://blog.codestorming.com{{ post.url }}"/>
+    <title>{{ post.title }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Christopher Lee</name>
+      <uri>http://codestorming.com</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>
+
