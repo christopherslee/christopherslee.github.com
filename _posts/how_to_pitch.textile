@@ -1,0 +1,14 @@
+---
+layout: default
+published: false
+title: How to pitch
+abstract: Creating pitch decks or executive summaries should make
+investing in your start up seem like the only logical conclusion after
+hearing your pitch.
+---
+
+you only need to accomplish 3 things when you pitch
+
+1. credible/believable
+2. logical
+3. that you have a team capable of executing the plan

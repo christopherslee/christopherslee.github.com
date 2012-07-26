@@ -1,0 +1,7 @@
+---
+layout: default
+title: Customizing Jekyll
+abstract: Advanced jekyll techniques
+---
+
+You downloaded and installed jekyll.  Now what?

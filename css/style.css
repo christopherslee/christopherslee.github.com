@@ -1,0 +1,263 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+strong {
+  font-weight: bold;
+}
+/* layout styles */
+body {
+  font-family: 'Myriad Pro', Helvetica, Verdana, Arial, sans-serif;
+  font-size: 62.5%;
+  color: #333;
+  background: #F1F1F1;
+}
+
+#container {
+  width: 960px;
+  margin: 0 auto;
+  padding: 25px 0;
+}
+
+#sidebar-panel {
+  float: left;
+  width: 200px;
+  padding: 0 40px 0 20px;
+  overflow: hidden;
+  margin-top: 30px;
+}
+
+#breadcrumb {
+  color: #777;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  overflow: hidden;
+}
+
+#breadcrumb li {
+  display: inline;
+  margin-left: 15px;
+}
+
+#breadcrumb li.right {
+  float: right;
+  margin-right: 15px;
+  margin-left: 75px;
+}
+
+#breadcrumb a:link, #breadcrumb a:visited, #breadcrumb a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+#breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+#content-panel {
+  width: 658px;
+  overflow: hidden;
+}
+
+/* blog styles */
+.post, .post-summary {
+  background: #FFFFFF;
+  border: solid 1px #D1D1D1;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  margin: 8px;
+  padding: 40px 80px;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.25);
+  -webkit-box-shadow: 0px 0px 5px rgba(0,0,0,0.25);
+  -moz-box-shadow: 0px 0px 5px rgba(0,0,0,0.25);
+}
+
+.post h1 {
+  font-size: 32px;
+  line-height: 48px;
+  font-weight: bold;
+}
+
+.post h2 {
+  font-size: 24px;
+  line-height: 24px;
+  margin-bottom: 24px;
+  font-weight: bold;
+}
+
+.post h3 {
+  font-size: 18px;
+  line-height: 18px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #333;
+  text-shadow: 0px 1px -1px #FFF;
+}
+
+.post p {
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+
+.post p.date {
+  font-size: 18px;
+  line-height: 24px;
+  color: #AAA;
+  font-weight: bold;
+}
+
+.post .related-posts {
+  list-style: disc inside;
+}
+
+.post .related-posts li {
+  font-size: 16px;
+  margin-bottom: 24px;
+}
+
+.post .related-posts a:link, .post .related-posts a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.post .related-posts a:hover {
+  text-decoration: underline;
+}
+
+.post a:link {
+  color: #00F;
+}
+
+.post a:visited {
+  color: inherit;
+}
+
+.post-summary p.date {
+  font-size: 18px;
+  line-height: 24px;
+  color: #AAA;
+  font-weight: bold;
+}
+
+.post-summary p.title {
+  font-size: 24px;
+  line-height: 24px;
+  margin-bottom: 24px;
+  font-weight: bold;
+  color: #555;
+}
+
+.post-summary a:link, .post-summary a:visited, .post-summary a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+.post-summary a:hover {
+  text-decoration: underline;
+}
+
+.post-summary p.abstract {
+  font-size: 14px;
+  line-height: 21px;
+  color: #555;
+}
+
+.post-summary p.continue {
+  font-size: 14px;
+  line-height: 21px;
+  margin-top: 21px;
+  color: #777;
+}
+
+#about p {
+  color: #333;
+  text-shadow: #FFF 0 1px 1px;
+  font-size: 14px;
+  line-height: 21px;
+  margin-bottom: 21px;
+}
+
+#about p a:link, #about p a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+#about p a:hover {
+  color: #FF7700;
+}
+
+#about p a:active {
+  text-decoration: underline;
+}
+
+.highlight {
+  font-size: 10px;
+  line-height: 15px;
+  font-family: Courier, monospace;
+  padding: 15px;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  margin-bottom: 24px;
+}
+
+#comments {
+  padding: 10px 15px;
+}
+
+#comments h3 {
+  font-size: 18px;
+  line-height: 18px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #333;
+  text-shadow: 0px 1px -1px #FFF;
+}

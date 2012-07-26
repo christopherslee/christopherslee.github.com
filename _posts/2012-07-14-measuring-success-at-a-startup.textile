@@ -1,0 +1,46 @@
+---
+layout: default
+published: true
+title: Measuring Success for Your Startup
+abstract: Startups face many challenges on the road to success, and we all dream about having a successful startup. Founders typically do not define what the success means beyond the very broad and generic "get a lot of users" or "make a lot of money."
+---
+
+h2. Abstract
+
+Startups face many challenges on the road to success, and we all dream about having a successful startup. Founders typically do not define what the success means beyond the very broad and generic "get a lot of users" or "make a lot of money."
+
+*If you cannot define success, how can you possibly achieve it?*
+
+h2. Begin with the end in mind
+
+Envisioning where you want your startup to be in the future enables you to hypothesize the steps you need to take to get there. Just like your resumé, the more specific you can be, the better. For example, "Get lots of users" is not as specific as "Get 10,000 paying customers in 2 years".
+
+I'm not proposing that you go out and write a 100-page business plan, but you should be able to come up with a "back of a napkin" projection for your startup including projections for both costs and revenue. You can also use this projection to sanity check your assumptions. If it's going to take 10,000 paying customers to be sustainable, and your total addressable market is 15,000 customers, you may want to reconsider. 
+
+As a side note, I used to get really annoyed when pitch decks talked about acquiring 1% of the market. However, I now think of it as a combination of A) getting 1% of the market is *really* hard, and B) if getting 1% of the market would not make a sustainable startup, then you should reconsider the business model altogether. So, think of the "1% of the market" calculation as quick gut check.
+
+h2. Defining your Key Performance Indicators (KPIs)
+
+Now that you know where you are trying to get to, let's break it down a little bit further. Exactly how are you going to make your projections come true, or, in other words, how are you going to know you are on the right track?
+
+Let's pretend your business is transactional, say, an eBay-like auction/listing service. Your projections call for $100k of revenue per month at the end of year one. Your projection may be something like (# of users * # of transactions per user per month * revenue per transaction). In MBA-language these would be your Key Performance Indicators for revenue. You likely should have KPIs for other areas of your startup as well (support, marketing, customer acquisition, etc).
+
+Hopefully, your projection was based on a pilot/beta/information/research of some kind, which led you to reasonably believe your new product can support: 10,000 customers * 10 paid listings per customer per month * $1 per transaction = $100k/month.
+
+If you're a social networking app and going viral is a critical part of your strategy, you'll define success as the type of actions a user takes on your site to achieve a viral coefficient greater than 1. The hypothesis being something like, if a user posts more than 5 messages and uploads 2 photos, they are likely to invite 10 friends to also sign up, 2 of which will sign up.
+
+h2. Driving product development
+
+I'm going to make the assumption at this point that you can measure/track the metrics you have defined. If you can't, I would stop everything else you're doing, and work on that immediately.
+
+Now that you have these goals, you can use them to guide product development. Don't add features just for the sake of adding features (the faux-progress trap). Let's go back to our auction site example. We look at our weekly report and see that we were supposed to have 10,000 users creating 10 listings per month for a $1 listing fee, but we have 10,000 users creating 2 listings per month for a $.50 transaction fee. We immediately see that we've done a good job acquiring customers, but our average customer is not listing as many items as we want them to a month, and they're transaction fees are short of our goals as well. 
+
+Based on that data, you can focus and drive product decisions in an attempt to increase the number of listings and the fees generated per listing. For example, maybe add-on services like photo hosting increases listing transactions by another $.50, or you including help/messaging in the product about reasons they should declutter their lives (and hence list more items.)
+
+Alternatively, you could change your assumptions altogether and go full throttle on acquiring more customers if you believe that it will be more cost effective than getting customers to post 8 more listings a month. You have to be careful that changing these assumptions doesn't invalidate your business model or projections (are there enough total users to support your new model?)
+
+h2. Conclusion
+
+Your challenge is to now go figure out what define's success for your startup. Maybe virality is important to you, or that you can successfully acquire customers cheaper than your competitor by SEO. It could be a combination of many things across different areas. The point is, if you cannot define success for an area of your business, how do you know that the work you are doing is beneficial at all.
+
+

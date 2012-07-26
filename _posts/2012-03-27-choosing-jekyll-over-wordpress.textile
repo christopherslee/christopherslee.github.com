@@ -1,0 +1,12 @@
+---
+layout: default
+title: Choosing Jekyll over Wordpress
+abstract:
+  The first obstacle to blogging is getting started. I've never
+  been a fan of wordpress, or any of the other hosted blogging platforms.
+  My biggest priorities were simplicity without sacrificing control, ease of
+  deployment, syntax-highligting, and speed (performance). After trying out Jekyll, I
+  decided it will suit my near-term needs just fine. The only way to really
+  validate that decision is to start writing.
+---
+

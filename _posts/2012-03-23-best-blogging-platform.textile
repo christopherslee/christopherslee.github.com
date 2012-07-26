@@ -1,0 +1,9 @@
+---
+layout: default
+published: false
+title: the best blogging platform
+abstract: It's difficult choosing a blogging platform.
+---
+
+Why is this question so difficult to answer? There are a plethora of blogging platforms?
+

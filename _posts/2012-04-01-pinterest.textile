@@ -1,0 +1,10 @@
+---
+layout: default
+published: false
+title: before Pinterest was an overnight success
+abstract: 
+---
+
+Pinterest wasn't hot for 2 years before it was hot.
+
+source: http://www.cnn.com/2012/03/13/tech/web/pinterest-sxsw/index.html?
