@@ -1,8 +1,16 @@
-<html>
-  <head>
-    <title>Christopher S. lee</title>
-  </head>
-  <body>
-    Hello Jekyll!
-  </body>
-</html>
+---
+layout: home
+title: Christopher Lee
+---
+<div id="home">
+  <div class="posts">
+    {% for post in site.posts %}
+      <div class="post-summary">
+        <p class="date">{{ post.date | date_to_string }}</p>
+        <p class="title"><a href="{{post.url}}">{{ post.title }}</a></p>
+        <p class="abstract">{{ post.abstract }}</p>
+        <p class="continue"><a href="{{post.url}}">Read full post&rarr;</a></p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
