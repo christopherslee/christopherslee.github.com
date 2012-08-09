@@ -172,6 +172,10 @@ body {
   text-decoration: underline;
 }
 
+.post em {
+  font-style: italic;
+}
+
 .post a:link {
   color: #00F;
 }
@@ -184,6 +188,7 @@ body {
   border-left: solid 4px #C9C9C9;
   padding-left: 15px;
   font-family: Courier;
+  margin-bottom: 18px;
 }
 
 .post blockquote p {
@@ -204,6 +209,23 @@ body {
 }
 
 .post blockquote.info p.info:first-child {
+  margin-top: 0;
+}
+
+.post blockquote.note {
+  padding: 15px 15px;
+  background: #fbffaa;
+  border-color: #fab574;
+  font-family: Myriad Pro, Helvetica;
+}
+
+.post blockquote.note p.note {
+  font-size: 14px;
+  margin-top: 18px;
+  margin-bottom: 0;
+}
+
+.post blockquote.note p.note:first-child {
   margin-top: 0;
 }
 
