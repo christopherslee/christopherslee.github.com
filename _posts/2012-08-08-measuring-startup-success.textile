@@ -2,10 +2,8 @@
 layout: default
 published: true
 title: Measuring Startup Success
-abstract: Startups face many challenges on the road to success, and we all dream about having a successful startup. Founders typically do not define what the success means beyond the very broad and generic "get a lot of users" or "make a lot of money."
+abstract: Startups face many challenges on the road to success, and we all dream about having a successful startup. However, founders typically do not define what the success means beyond the very broad and generic "get a lot of users" or "make a lot of money."
 ---
-
-h2. Abstract
 
 Startups face many challenges on the road to success, and we all dream about having a successful startup. However, founders typically do not define what success is beyond a very broad and generic "get a lot of users" or "make a lot of money."
 
@@ -23,9 +21,13 @@ h2. Defining your Key Performance Indicators (KPIs)
 
 Now that you know where you are trying to get to, let's break it down a little bit further. Exactly how are you going to make your projections come true, or, in other words, how are you going to know you are on the right track?
 
-Let's pretend your business is transactional, say, an eBay-like auction/listing service. Your projections call for $100k of revenue per month at the end of year one. Your projection may be something like (# of users * # of transactions per user per month * revenue per transaction). In MBA-language these would be your Key Performance Indicators for revenue. You likely should have KPIs for other areas of your startup as well (support, marketing, customer acquisition, etc).
+Let's pretend your business is transactional, say, an eBay-like auction/listing service. Your projections call for $100k of revenue per month at the end of year one. Your projection may be something like:
 
-Hopefully, your projection was based on a pilot/beta/information/research of some kind, which led you to reasonably believe your new product can support: 10,000 customers * 10 paid listings per customer per month * $1 per transaction = $100k/month.
+bq. # of users * # of transactions per user per month * revenue per transaction
+
+In MBA-language these would be your Key Performance Indicators for revenue. You likely should have KPIs for other areas of your startup as well (support, marketing, customer acquisition, etc).
+
+Hopefully, your projection was based on a pilot, beta, information, or research of some kind, which led you to reasonably believe your new product can support: 10,000 customers * 10 paid listings per customer per month * $1 per transaction = $100k/month.
 
 If you're a social networking app and going viral is a critical part of your strategy, you'll define success as the type of actions a user takes on your site to achieve a viral coefficient greater than 1. The hypothesis being something like, if a user posts more than 5 messages and uploads 2 photos, they are likely to invite 10 friends to also sign up, 2 of which will sign up.
 
