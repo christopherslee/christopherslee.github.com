@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 title: Measuring Startup Success by Defining Key Performance Indicators (KPI)
 abstract: Startups face many challenges on the road to success, and we all dream about having a successful startup. However, founders typically do not define what the success means beyond the very broad and generic "get a lot of users" or "make a lot of money."
 ---
@@ -31,3 +31,4 @@ Hopefully, your projection was based on a pilot, beta, information, or research 
 
 If you're a social networking app and going viral is a critical part of your strategy, you'll define success as the type of actions a user takes on your site to achieve a viral coefficient greater than 1. The hypothesis being something like, if a user posts more than 5 messages and uploads 2 photos, they are likely to invite 10 friends to also sign up, 2 of which will sign up.
 
+Stay tuned for the next post, using your KPIs to drive product development.
