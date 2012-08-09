@@ -190,6 +190,23 @@ body {
   font-size: 12px;
 }
 
+.post blockquote.info {
+  padding: 20px 15px;
+  background: #D9EFF2;
+  border-color: #0072BA;
+  font-family: Myriad Pro, Helvetica;
+}
+
+.post blockquote.info p.info {
+  font-size: 14px;
+  margin-top: 18px;
+  margin-bottom: 0;
+}
+
+.post blockquote.info p.info:first-child {
+  margin-top: 0;
+}
+
 .post-summary p.date {
   font-size: 18px;
   line-height: 24px;

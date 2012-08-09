@@ -7,7 +7,7 @@ abstract: Startups face many challenges on the road to success, and we all dream
 
 Startups face many challenges on the road to success, and we all dream about having a successful startup. However, founders typically do not define what success is beyond a very broad and generic "get a lot of users" or "make a lot of money."
 
-*If you cannot define success, how can you possibly achieve it?*
+_If you cannot define success, how can you possibly achieve it?_
 
 h2. Begin with the end in mind
 
@@ -15,7 +15,9 @@ Envisioning where you want your startup to be in the future enables you to hypot
 
 I'm not proposing that you go out and write a 100-page business plan, but you should be able to come up with a "back of a napkin" projection for your startup including projections for both costs and revenue. You can also use this projection to sanity check your assumptions. If it's going to take 10,000 paying customers to be sustainable, and your total addressable market is 15,000 customers, you may want to reconsider. 
 
-As a side note, I used to get really annoyed when pitch decks talked about acquiring 1% of the market. However, I now think of it as a combination of A) getting 1% of the market is *really* hard, and B) if getting 1% of the market would not make a sustainable startup, then you should reconsider the business model altogether. So, think of the "1% of the market" calculation as quick gut check.
+As a side note, I used to get really annoyed when pitch decks talked about acquiring 1% of the market. However, I now think of it as a combination of A) getting 1% of the market is *really* hard, and B) if getting 1% of the market would not make a sustainable startup, then you should reconsider the business model altogether.
+
+bq. So, think of the "1% of the market" calculation as quick gut check.
 
 h2. Defining your Key Performance Indicators (KPIs)
 
@@ -27,8 +29,10 @@ bq. # of users * # of transactions per user per month * revenue per transaction
 
 In MBA-language these would be your Key Performance Indicators for revenue. You likely should have KPIs for other areas of your startup as well (support, marketing, customer acquisition, etc).
 
-Hopefully, your projection was based on a pilot, beta, information, or research of some kind, which led you to reasonably believe your new product can support: 10,000 customers * 10 paid listings per customer per month * $1 per transaction = $100k/month.
+Hopefully, your projection was based on a pilot, beta, information, or research of some kind, which led you to reasonably believe your new product can support:
+
+bq. 10,000 customers * 10 paid listings per customer per month * $1 per transaction = $100k/month.
 
 If you're a social networking app and going viral is a critical part of your strategy, you'll define success as the type of actions a user takes on your site to achieve a viral coefficient greater than 1. The hypothesis being something like, if a user posts more than 5 messages and uploads 2 photos, they are likely to invite 10 friends to also sign up, 2 of which will sign up.
 
-Stay tuned for the next post, using your KPIs to drive product development.
+bq(info). Stay tuned for the next post, using your KPIs to drive product development.
