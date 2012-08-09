@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Choosing Jekyll over Wordpress
+published: false
 abstract:
   The first obstacle to blogging is getting started. I've never
   been a fan of wordpress, or any of the other hosted blogging platforms.

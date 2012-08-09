@@ -1,13 +1,13 @@
 ---
 layout: default
-published: true
+published: false
 title: Measuring Success for Your Startup
 abstract: Startups face many challenges on the road to success, and we all dream about having a successful startup. Founders typically do not define what the success means beyond the very broad and generic "get a lot of users" or "make a lot of money."
 ---
 
 h2. Abstract
 
-Startups face many challenges on the road to success, and we all dream about having a successful startup. Founders typically do not define what the success means beyond the very broad and generic "get a lot of users" or "make a lot of money."
+Startups face many challenges on the road to success, and we all dream about having a successful startup. However, founders typically do not define what success is beyond a very broad and generic "get a lot of users" or "make a lot of money."
 
 *If you cannot define success, how can you possibly achieve it?*
 
