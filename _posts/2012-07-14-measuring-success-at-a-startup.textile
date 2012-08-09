@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 title: Measuring Success for Your Startup
 abstract: Startups face many challenges on the road to success, and we all dream about having a successful startup. Founders typically do not define what the success means beyond the very broad and generic "get a lot of users" or "make a lot of money."
 ---
