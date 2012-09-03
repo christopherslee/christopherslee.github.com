@@ -1,9 +1,11 @@
 ---
 layout: default
 published: false
-title: Measuring Startup Success by Driving Product Development
+title: Measuring Startup Success by Driving Product Development with KPIs
 abstract: Startups face many challenges on the road to success, and we all dream about having a successful startup. However, founders typically do not define what the success means beyond the very broad and generic "get a lot of users" or "make a lot of money."
 ---
+
+bq(info). Read part 1 of this topic: "Measuring Startup Success by Defining Key Performance Indicators":{% post_url 2012-08-08-measuring-startup-success-by-defining-key-performance-indicators-kpis %}
 
 h2. Driving product development
 
