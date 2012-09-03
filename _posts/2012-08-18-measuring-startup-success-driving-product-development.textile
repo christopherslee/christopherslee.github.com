@@ -2,24 +2,27 @@
 layout: default
 published: false
 title: Measuring Startup Success by Driving Product Development with KPIs
-abstract: Startups face many challenges on the road to success, and we all dream about having a successful startup. However, founders typically do not define what the success means beyond the very broad and generic "get a lot of users" or "make a lot of money."
+abstract: Adding features for the sake of adding new features is a waste of time, energy, and resources. Use predefined goals and KPIs to focus product development effort to ensure you are working towards success.
 ---
 
-bq(info). Read part 1 of this topic: "Measuring Startup Success by Defining Key Performance Indicators":{% post_url 2012-08-08-measuring-startup-success-by-defining-key-performance-indicators-kpis %}
+bq(info). Read part 1 on this topic: "Measuring Startup Success by Defining Key Performance Indicators":{% post_url 2012-08-08-measuring-startup-success-by-defining-key-performance-indicators-kpis %}
 
-h2. Driving product development
+h2. Using your KPI goals to guide product development
 
-I'm going to make the assumption at this point that you can measure/track the metrics you have defined. If you can't, I would stop everything else you're doing, and work on that immediately.
+I'm going to make the assumption that you are measuring/tracking the metrics you have defined. If you can't, stop what you're doing and work on being able to gather the data immediately. 
 
-Now that you have these goals, you can use them to guide product development. Don't add features just for the sake of adding features (the faux-progress trap). Let's go back to our auction site example. We look at our weekly report and see that we were supposed to have 10,000 users creating 10 listings per month for a $1 listing fee, but we have 10,000 users creating 2 listings per month for a $.50 transaction fee. We immediately see that we've done a good job acquiring customers, but our average customer is not listing as many items as we want them to a month, and they're transaction fees are short of our goals as well. 
+bq(warning). Don't add features just for the sake of adding features (the faux-progress trap). 
 
-Based on that data, you can focus and drive product decisions in an attempt to increase the number of listings and the fees generated per listing. For example, maybe add-on services like photo hosting increases listing transactions by another $.50, or you including help/messaging in the product about reasons they should declutter their lives (and hence list more items.)
+Going back to our auction site example, we look at our weekly report and see our goal is to have 10,000 users creating 10 listings per month for a $1 listing fee, but we have 10,000 users creating 2 listings per month for a $.50 transaction fee. We immediately see that we've done a good job acquiring customers, but our customers are not listing as many items as we want them to a month, and they're also not spending as much as we ould like per transaction.
 
-Alternatively, you could change your assumptions altogether and go full throttle on acquiring more customers if you believe that it will be more cost effective than getting customers to post 8 more listings a month. You have to be careful that changing these assumptions doesn't invalidate your business model or projections (are there enough total users to support your new model?)
+Based on the data, we focus our product development efforts on increasing the fees generated per listing and the number of listings per user. We hypothesize that add-on services like photo hosting will increase listing transactions fees by another $0.50, and that including in product messaging about minimalism leading to happiness will drive users to declutter their lives by selling off their junk (and hence list more items.)
+
+Alternatively, you could change your assumptions altogether and go full throttle on acquiring more customers, if you believe that it will be more cost effective than getting customers to post 8 more listings a month. You have to be careful that changing these assumptions doesn't invalidate your business model or projections (is the total addressable market big enough to support your new model?)
 
 h2. Conclusion
 
-Your challenge is to now go figure out what define's success for your startup. Maybe virality is important to you, or that you can successfully acquire customers cheaper than your competitor by SEO. It could be a combination of many things across different areas. The point is, if you cannot define success for an area of your business, how do you know that the work you are doing is beneficial at all.
+Your challenge is to figure out what defines success for your startup. Maybe virality is important to you and you need to determine what user actions tend to drive your viral coefficient upwards. Or your business model assumes that you can successfully acquire customers cheaper than your competitor with better SEO. Maybe your goal is your customer's success and word-of-mouth will grow your business (measured by a high Net Promoter Score.)
 
+It could be a combination of many things across different areas. The point is, if you cannot define success for an area of your business, how can you make decisions about where to spend your resources, or know the work you are doing is beneficial at all.
 
-
+bq(info). Beware of the premature pivot. Just because you've hit a bump in the road doesn't mean you should pivot. Subscribe to get the next post on the premature pivot trap.
