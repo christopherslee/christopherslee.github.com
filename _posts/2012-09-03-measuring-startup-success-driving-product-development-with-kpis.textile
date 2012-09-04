@@ -5,11 +5,11 @@ title: Measuring Startup Success by Driving Product Development with KPIs
 abstract: Adding features for the sake of adding new features is a waste of time, energy, and resources. Use predefined goals and KPIs to focus product development effort to ensure you are working towards success.
 ---
 
-bq(info). Read part 1 on this topic: "Measuring Startup Success by Defining Key Performance Indicators":http://christopherslee.github.com/2012/08/08/measuring-startup-success-by-defining-key-performance-indicators-kpis.html
-
 h2. Using your KPI goals to guide product development
 
-I'm going to make the assumption that you are measuring/tracking the metrics you have defined. If you can't, stop what you're doing and work on being able to gather the data immediately.
+In the "previous post":http://christopherslee.github.com/2012/08/08/measuring-startup-success-by-defining-key-performance-indicators-kpis.html we discussed the importance of defining key performance indicators for your startup. If you cannot define your success criteria, how can you know if you're heading in the right direction?
+
+Now, I'm going to make the assumption that you are measuring the metrics you have defined. If you can't, stop what you're doing and work on being able to gather the data immediately.
 
 bq(warning). Don't add features just for the sake of adding features (the faux-progress trap).
 
@@ -19,7 +19,19 @@ Going back to our auction site example, we look at our weekly report and see our
 
 Based on the data, we focus our product development efforts on increasing the fees generated per listing and the number of listings per user. We hypothesize that add-on services like photo hosting will increase listing transactions fees by another $0.50, and that including in product messaging about minimalism leading to happiness will drive users to declutter their lives by selling off their junk (and hence list more items.)
 
-Alternatively, you could change your assumptions altogether and go full throttle on acquiring more customers, if you believe that it will be more cost effective than getting customers to post 8 more listings a month. You have to be careful that changing these assumptions doesn't invalidate your business model or projections (is the total addressable market big enough to support your new model?)
+Alternatively, if you believe acquiring more customers will be easier than increasing listings per user or increasing the average transaction fee, you could change your assumptions. You have to be careful that changing these assumptions doesn't invalidate your business model.
+
+bq(note). Is the total addressable market still big enough to support your new model?
+
+h2. Minimum Viable Product
+
+I'm not saying that you should ignore Minimum Viable Product. On the contrary, if you didn't already have a Minimum Viable Product, I don't think you would be able to see any consistent growth in numbers. If you haven't reached your MVP and you are seeing growth, my first guess would be that you defined your MVP wrong and you've already reached it. Now iterate to success!
+
+h2. Design
+
+I love the work that designers do. But what role does design play in reaching your KPI goals? In certain cases, say conversion rate for example, having a clearer design and call to action can improve numbers. However, simply putting a different visual design on top of the same feature set is a more common, and deadly trap. I've yet to see a successful example of a product with a great visual design and nominal customer value. On the contrary, there are plenty of examples of successful products with below average design, and high customer value (Reddit comes to mind.)
+
+bq(info). Make sure your design work is focused and has a measurable goal.
 
 h2. Conclusion
 
