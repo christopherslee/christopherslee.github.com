@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -229,6 +229,23 @@ body {
   margin-top: 0;
 }
 
+.post blockquote.warning {
+  padding: 15px 15px;
+  background: #ffeeee;
+  border-color: #ff0000;
+  font-family: Myriad Pro, Helvetica;
+}
+
+.post blockquote.warning p.warning {
+  font-size: 14px;
+  margin-top: 18px;
+  margin-bottom: 0;
+}
+
+.post blockquote.warning p.warning:first-child {
+  margin-top: 0;
+}
+
 .post-summary p.date {
   font-size: 18px;
   line-height: 24px;
@@ -309,4 +326,16 @@ body {
   font-weight: bold;
   color: #333;
   text-shadow: 0px 1px -1px #FFF;
+}
+
+img.center {
+  text-align: center;
+}
+
+img.border {
+  border: solid 1px #EEE;
+}
+
+img.shadow {
+  box-shadow: 1px 1px 3px rgba(0,0,0,.25);
 }

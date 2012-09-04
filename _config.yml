@@ -1,3 +1,4 @@
 pygments: true
-exclude: [ Rakefile ]
+exclude: [ Rakefile, Gemfile, Gemfile.lock ]
+include: [ images ]
 lsi: true

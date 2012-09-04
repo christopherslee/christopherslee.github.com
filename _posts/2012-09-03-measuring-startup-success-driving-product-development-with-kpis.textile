@@ -1,19 +1,21 @@
 ---
 layout: default
-published: false
+published: true
 title: Measuring Startup Success by Driving Product Development with KPIs
 abstract: Adding features for the sake of adding new features is a waste of time, energy, and resources. Use predefined goals and KPIs to focus product development effort to ensure you are working towards success.
 ---
 
-bq(info). Read part 1 on this topic: "Measuring Startup Success by Defining Key Performance Indicators":{% post_url 2012-08-08-measuring-startup-success-by-defining-key-performance-indicators-kpis %}
+bq(info). Read part 1 on this topic: "Measuring Startup Success by Defining Key Performance Indicators":http://christopherslee.github.com/2012/08/08/measuring-startup-success-by-defining-key-performance-indicators-kpis.html
 
 h2. Using your KPI goals to guide product development
 
-I'm going to make the assumption that you are measuring/tracking the metrics you have defined. If you can't, stop what you're doing and work on being able to gather the data immediately. 
+I'm going to make the assumption that you are measuring/tracking the metrics you have defined. If you can't, stop what you're doing and work on being able to gather the data immediately.
 
-bq(warning). Don't add features just for the sake of adding features (the faux-progress trap). 
+bq(warning). Don't add features just for the sake of adding features (the faux-progress trap).
 
-Going back to our auction site example, we look at our weekly report and see our goal is to have 10,000 users creating 10 listings per month for a $1 listing fee, but we have 10,000 users creating 2 listings per month for a $.50 transaction fee. We immediately see that we've done a good job acquiring customers, but our customers are not listing as many items as we want them to a month, and they're also not spending as much as we ould like per transaction.
+Going back to our auction site example, we look at our weekly report and see our goal is to have 10,000 users creating 10 listings per month for a $1 listing fee, but we have 10,000 users creating 2 listings per month for a $.50 transaction fee. We immediately see that we've done a good job acquiring customers, but our customers are not listing as many items as we want them to a month, and they're also not spending as much as we would like per transaction.
+
+!(border shadow)/images/kpi-dashboard-example.png!
 
 Based on the data, we focus our product development efforts on increasing the fees generated per listing and the number of listings per user. We hypothesize that add-on services like photo hosting will increase listing transactions fees by another $0.50, and that including in product messaging about minimalism leading to happiness will drive users to declutter their lives by selling off their junk (and hence list more items.)
 
